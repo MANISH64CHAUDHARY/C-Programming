@@ -8,7 +8,7 @@ void main()              //tell the compiler the start of the program
     sum=num1+num2;              //addition of numbers and storing in sum.
     printf("sum=%d",sum);       //display the output
     sub=num1-num2;                     //subtraction of numbers and storing in sub.
-    printf("difference=%d",sub);   /display the output
+    printf("difference=%d",sub);   //display the output
     mul=num1*num2;             //multiplication of numbers and storing in mul.
     printf("product is=%d",mul);      //display the output
     div=num1/num2;                           //division of numbers and storing in div.
