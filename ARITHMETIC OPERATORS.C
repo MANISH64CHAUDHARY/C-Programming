@@ -1,6 +1,6 @@
 #include<stdio.h>  //include header file stdio.h
 #include<conio.h>
-void main()              /tell the compiler the start of the program
+void main()              //tell the compiler the start of the program
 {
     int numb1,numb2,sum,sub,mul,div,mod;            //declaration of variables
     printf("Enter any two numbers");
