@@ -14,6 +14,6 @@ void main()              //tell the compiler the start of the program
     div=num1/num2;                           //division of numbers and storing in div.
     printf("division=%d",div);        //display the output
     mod=num1%num2;          //modulus of numbers and storing in mod.
-    printf("modulus=%d",mod);    //display the output
+    printf("modulus=%d",mod);    /display the output
     getch();
 }
