@@ -12,7 +12,7 @@
                         printf("sum=%d", s);....................>Executable part
               getch();..........................................>Executable part
     }
-    int sum(int x,int y)............>User defined function
+    int sum(int x,int y)........................................>User defined function
     {
         int Z;
         Z = x + y;
