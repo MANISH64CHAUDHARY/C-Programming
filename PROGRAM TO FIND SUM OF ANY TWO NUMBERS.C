@@ -3,7 +3,7 @@
 #include <conio.h>..............................................>Header files
     int sum(int, int)...........................................>Function header
     int s;......................................................>Global Declaration
-    void main()..........>main()
+    void main().................................................>main()
     {
         int a, b;..............>Declaration part
                   printf("Enter any two numbers:");.........>Executable part
