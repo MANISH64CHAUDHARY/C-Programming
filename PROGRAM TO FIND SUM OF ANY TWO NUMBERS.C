@@ -1,4 +1,4 @@
-/*program to find sum of any two numbers*/...............>/*Comments*/
+/*program to find sum of any two numbers*/......................>/*Comments*/
 #include<stdio.h>............>Header files
 #include <conio.h>...........>Header files
     int sum(int, int)...............>Function header
