@@ -1,4 +1,4 @@
-#include<stdio.h>  //include header file stdio.h
+#include<stdio.h>  /include header file stdio.h
 #include<conio.h>
 void main()              //tell the compiler the start of the program
 {
