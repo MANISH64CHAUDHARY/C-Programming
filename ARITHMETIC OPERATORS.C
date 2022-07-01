@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()              //tell the compiler the start of the program
 {
-    int numb1,numb2,sum,sub,mul,div,mod;            //declaration of variables
+    int numb1,numb2,sum,sub,mul,div,mod;            /declaration of variables
     printf("Enter any two numbers");
     scanf("%d%d",&num1,&num2);  //inputs the operands
     sum=num1+num2;              //addition of numbers and storing in sum.
