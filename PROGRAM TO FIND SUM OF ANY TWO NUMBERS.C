@@ -6,7 +6,7 @@
     void main().................................................>main()
     {
         int a, b;...............................................>Declaration part
-                  printf("Enter any two numbers:");.........>Executable part
+                  printf("Enter any two numbers:");.............>Executable part
                          scanf("%d%d", &a, &b);...........>Executable part
                          s = sum(a, b);..................>Executable part
                         printf("sum=%d", s);...........>Executable part
