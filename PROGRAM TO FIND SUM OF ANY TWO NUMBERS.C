@@ -5,7 +5,7 @@
     int s;......................................................>Global Declaration
     void main().................................................>main()
     {
-        int a, b;..............>Declaration part
+        int a, b;...............................................>Declaration part
                   printf("Enter any two numbers:");.........>Executable part
                          scanf("%d%d", &a, &b);...........>Executable part
                          s = sum(a, b);..................>Executable part
