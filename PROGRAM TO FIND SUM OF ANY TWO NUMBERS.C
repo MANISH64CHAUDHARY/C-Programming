@@ -2,7 +2,7 @@
 #include<stdio.h>...............................................>Header files
 #include <conio.h>..............................................>Header files
     int sum(int, int)...........................................>Function header
-    int s;....................>Global Declaration
+    int s;......................................................>Global Declaration
     void main()..........>main()
     {
         int a, b;..............>Declaration part
