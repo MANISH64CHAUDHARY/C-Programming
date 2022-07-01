@@ -10,7 +10,7 @@
                          scanf("%d%d", &a, &b);.................>Executable part
                          s = sum(a, b);.........................>Executable part
                         printf("sum=%d", s);....................>Executable part
-              getch();..........>Executable part
+              getch();..........................................>Executable part
     }
     int sum(int x,int y)............>User defined function
     {
